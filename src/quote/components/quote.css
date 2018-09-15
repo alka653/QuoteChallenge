@@ -1,0 +1,22 @@
+.container{
+	width: 100%;
+	min-height: 100%;
+	position: absolute;
+	background-size: cover !important;
+	text-align: center;
+}
+h1{
+	margin-top: 14%;
+	color: #ecf0f1;
+	padding: 10px;
+	background-color: rgba(0,0,0,.23);
+	margin-bottom: 10px;
+}
+small{
+	display: block;
+	font-size: .7em;
+	font-weight: 100;
+}
+a{
+	color: #ecf0f1;
+}
